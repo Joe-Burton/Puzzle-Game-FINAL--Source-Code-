@@ -1,0 +1,69 @@
+﻿using UnityEngine;
+using TMPro;
+
+public class HighScoreManager : MonoBehaviour
+{
+    public TMP_Text highScoreText;
+    private float fastestTime;
+    private string highScoreFilePath = "Assets/Resources/HighScores.txt";
+
+    public void SaveScore(string playerName, float bestTime)
+    {
+        // Format the score data
+        string scoreData = playerName + ": " + bestTime.ToString("F2") + "s";
+
+        // Append the score data to the high scores file
+        System.IO.File.AppendAllText(highScoreFilePath, scoreData + "\n");
+
+        Debug.Log("Score saved successfully!");
+    }
+    
+    void Start()
+    {
+        // Load the fastest time from the text file
+        LoadFastestTime();
+    }
+
+    void Update()
+    {
+        // Display the fastest time
+        highScoreText.text = "Fastest Time: " + FormatTime(fastestTime);
+    }
+
+    private void LoadFastestTime()
+    {
+        string filePath = Application.dataPath + "/Resources/FastestTime.txt"; // Path to the text file
+
+        // Check if the file exists
+        if (System.IO.File.Exists(filePath))
+        {
+            // Read the text from the file
+            string fastestTimeString = System.IO.File.ReadAllText(filePath);
+            
+            // Parse the text to float
+            if (float.TryParse(fastestTimeString, out float result))
+            {
+                fastestTime = result;
+            }
+            else
+            {
+                Debug.LogError("Failed to parse fastest time from the file.");
+            }
+        }
+        else
+        {
+            Debug.LogError("Fastest time file not found.");
+        }
+    }
+
+    private string FormatTime(float time)
+    {
+        // Convert time to minutes, seconds, and milliseconds
+        int minutes = Mathf.FloorToInt(time / 60f);
+        int seconds = Mathf.FloorToInt(time % 60f);
+        int milliseconds = Mathf.FloorToInt((time * 1000f) % 1000f);
+
+        // Return formatted time string
+        return string.Format("{0:00}:{1:00}:{2:000}", minutes, seconds, milliseconds);
+    }
+}

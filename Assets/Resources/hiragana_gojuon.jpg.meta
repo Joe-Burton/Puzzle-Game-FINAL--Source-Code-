@@ -1,0 +1,1676 @@
+fileFormatVersion: 2
+guid: 02a9e099f6128704bb25fcf7b145b168
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1000
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hiragana_gojuon_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 658.8
+        width: 101.14286
+        height: 73.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1402a0025304b654a84671d0c69b9831
+      internalID: 747164294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiragana_gojuon_1
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 658.8
+        width: 101.14286
+        height: 73.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 264f1cd690fddca4a9f5f82284fccea2
+      internalID: -634576607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiragana_gojuon_2
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 658.8
+        width: 101.14286
+        height: 73.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e4b1713d91ae7f4a85bb02a13466822
+      internalID: -887491512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiragana_gojuon_3
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 658.8
+        width: 101.14286
+        height: 73.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab4c346db750e6948a91617e30336bd3
+      internalID: 635360314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiragana_gojuon_4
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 658.8
+        width: 101.14286
+        height: 73.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b86bb06c74eb7234d9ae088ce9d91859
+      internalID: -806074833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiragana_gojuon_5
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 658.8
+        width: 101.14286
+        height: 73.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8629e4d3fbb60e48a23f3d12626be6e
+      internalID: 1883361523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiragana_gojuon_6
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 658.8
+        width: 101.14286
+        height: 73.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee6272b7e1a4b143aa9af2f72f0bdbf
+      internalID: -417445582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiragana_gojuon_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 585.8
+        width: 101.14286
+        height: 73.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87160ba32b08a26499fe5509348c349b
+      internalID: -1780208580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiragana_gojuon_8
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 585.8
+        width: 101.14286
+        height: 73.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 925a81a73f227464f8eda18f243339e6
+      internalID: 369628399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiragana_gojuon_9
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 585.8
+        width: 101.14286
+        height: 73.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb6e45ec5eac951468e0c1664af86302
+      internalID: -970978208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiragana_gojuon_10
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 585.8
+        width: 101.14286
+        height: 73.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a57c97e499209614382e8951f08f654d
+      internalID: 2118077459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiragana_gojuon_11
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 585.8
+        width: 101.14286
+        height: 73.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 973ccad52f1bcc442b3d442ad6ab4a4c
+      internalID: 2034883176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiragana_gojuon_12
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 585.8
+        width: 101.14286
+        height: 73.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f10f2b8f1e44b7498b12288be763db0
+      internalID: 815692885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiragana_gojuon_13
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 585.8
+        width: 101.14286
+        height: 73.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5014d3c0ca8c48c4b95b5899cd774514
+      internalID: 577336758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiragana_gojuon_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512.8
+        width: 101.14286
+        height: 73.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 810caa6674ea99142a938f89138181c9
+      internalID: -1780185172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiragana_gojuon_15
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 512.8
+        width: 101.14286
+        height: 73.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c94dd55d1f5645b448c03d7d36e64baf
+      internalID: -799219782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiragana_gojuon_16
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 512.8
+        width: 101.14286
+        height: 73.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d8ed1d1305e97a44bb9edfa921e0f2b
+      internalID: -1754549457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiragana_gojuon_17
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 512.8
+        width: 101.14286
+        height: 73.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e221b27ad28e564cb2445cecf139b6a
+      internalID: -1109430175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiragana_gojuon_18
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 512.8
+        width: 101.14286
+        height: 73.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f215aaaa95826c34c8a5e7c45f33235d
+      internalID: -674860269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiragana_gojuon_19
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 512.8
+        width: 101.14286
+        height: 73.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d74010546d8f9c4abb3bd15491df2fa
+      internalID: 1535453063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiragana_gojuon_20
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 512.8
+        width: 101.14286
+        height: 73.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd2d84f03983cc4e893a44ff61f9d9f
+      internalID: -1985105553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiragana_gojuon_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 439.8
+        width: 101.14286
+        height: 73.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 711828657ddec25418bf9d02ffbf446d
+      internalID: 2064264214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiragana_gojuon_22
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 439.8
+        width: 101.14286
+        height: 73.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc4bcc08fb7f5254793a33f9451a407a
+      internalID: 769318539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiragana_gojuon_23
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 439.8
+        width: 101.14286
+        height: 73.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a8eb04427ec75b41bc93da166dcd1c0
+      internalID: -1102677020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiragana_gojuon_24
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 439.8
+        width: 101.14286
+        height: 73.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92ff2de11aa5e694ba62bd16bf7ae429
+      internalID: 1145215672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiragana_gojuon_25
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 439.8
+        width: 101.14286
+        height: 73.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f97654d898503f040851409c0242cb05
+      internalID: -1003458934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiragana_gojuon_26
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 439.8
+        width: 101.14286
+        height: 73.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1abe3bcbff3b5284f8c839303e0d36af
+      internalID: -961627902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiragana_gojuon_27
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 439.8
+        width: 101.14286
+        height: 73.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48163d0b6da216145995a193106f6674
+      internalID: -746561246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiragana_gojuon_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 366.8
+        width: 101.14286
+        height: 73.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 901272318b3f4574da5fe5f8d16f581b
+      internalID: 1659912937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiragana_gojuon_29
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 366.8
+        width: 101.14286
+        height: 73.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca40738ddf6b4da4e8ddb80cca8837e5
+      internalID: 1869663307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiragana_gojuon_30
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 366.8
+        width: 101.14286
+        height: 73.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb0d94fb63f90034d96453b2faf1f524
+      internalID: -902898932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiragana_gojuon_31
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 366.8
+        width: 101.14286
+        height: 73.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc0d2d8130a91b4f9d2340da48410a6
+      internalID: -1786647171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiragana_gojuon_32
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 366.8
+        width: 101.14286
+        height: 73.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8956d32f1c7af56479c68633f97b588f
+      internalID: -432264171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiragana_gojuon_33
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 366.8
+        width: 101.14286
+        height: 73.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b0c6caf5b1f674d9511e1db04c8a55
+      internalID: 2003777622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiragana_gojuon_34
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 366.8
+        width: 101.14286
+        height: 73.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e074ca130f1a7240bc1d282a67dff88
+      internalID: 1028567556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiragana_gojuon_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 293.8
+        width: 101.14286
+        height: 73.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6945e58f8e6c05145a253bb4b60923ae
+      internalID: -1840095372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiragana_gojuon_36
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 293.8
+        width: 101.14286
+        height: 73.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb970932316ac8e418f212356cc20e44
+      internalID: 1355099318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiragana_gojuon_37
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 293.8
+        width: 101.14286
+        height: 73.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d73f2d2207c1b448976b240d872140
+      internalID: -1859855150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiragana_gojuon_38
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 293.8
+        width: 101.14286
+        height: 73.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7251be210d33e8549a5df4c325aa7b07
+      internalID: 1717922716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiragana_gojuon_39
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 293.8
+        width: 101.14286
+        height: 73.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66a0cdef32bd1784195522919eda42b9
+      internalID: -2126330191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiragana_gojuon_40
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 293.8
+        width: 101.14286
+        height: 73.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6338cb3cd1078f747af8e8f7784efa54
+      internalID: -933186201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiragana_gojuon_41
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 293.8
+        width: 101.14286
+        height: 73.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aaaee724295cdb4c9be7bd18063be1b
+      internalID: -1684343209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiragana_gojuon_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 220.8
+        width: 101.14286
+        height: 73.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37ffb21c2f90e934aaa7fe4898549590
+      internalID: -2025651002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiragana_gojuon_43
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 220.8
+        width: 101.14286
+        height: 73.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f838623ce653b6469f71b95d3dcc0af
+      internalID: -823469282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiragana_gojuon_44
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 220.8
+        width: 101.14286
+        height: 73.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe38027bdd6e9624aa05e58bdaa6bf9e
+      internalID: -1633255183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiragana_gojuon_45
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 220.8
+        width: 101.14286
+        height: 73.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b9e6b0142a0fdc4c9e15c69862cbb6f
+      internalID: -292877526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiragana_gojuon_46
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 220.8
+        width: 101.14286
+        height: 73.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72b8ac1c2a8a3464c92254f6f4f51578
+      internalID: 1694517386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiragana_gojuon_47
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 220.8
+        width: 101.14286
+        height: 73.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb46d781727ee54fa323fec7cd09cdf
+      internalID: -888835880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiragana_gojuon_48
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 220.8
+        width: 101.14286
+        height: 73.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f74e28fb5bf3f0847952a528ba074223
+      internalID: -1560466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiragana_gojuon_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 147.8
+        width: 101.14286
+        height: 73.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9d5a625b8226f247ad026707eba402f
+      internalID: 486047569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiragana_gojuon_50
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 147.8
+        width: 101.14286
+        height: 73.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44b99b92f99bdb54a9c175c0bb0ca387
+      internalID: 1112009802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiragana_gojuon_51
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 147.8
+        width: 101.14286
+        height: 73.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1b3a9fb45ca85341b2bd4028ecba0e1
+      internalID: 1753857610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiragana_gojuon_52
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 147.8
+        width: 101.14286
+        height: 73.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d191a721859bfa84bb036a17703fd713
+      internalID: 1071909913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiragana_gojuon_53
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 147.8
+        width: 101.14286
+        height: 73.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70d58d7a180f1104888e6d6ecf6b3f99
+      internalID: -535700306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiragana_gojuon_54
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 147.8
+        width: 101.14286
+        height: 73.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7871bc577f0ee04b9b80b516273a165
+      internalID: -1984559163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiragana_gojuon_55
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 147.8
+        width: 101.14286
+        height: 73.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b0d4e607da12bf4580ee7ee4c2e0ac8
+      internalID: -1736968630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiragana_gojuon_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 74.8
+        width: 101.14286
+        height: 73.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a4446772f2677549a6d285cd82caaf7
+      internalID: -1769812714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiragana_gojuon_57
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 74.8
+        width: 101.14286
+        height: 73.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe7a8a1e85b46b43b06e519f84706c3
+      internalID: 1674681975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiragana_gojuon_58
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 74.8
+        width: 101.14286
+        height: 73.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5423313073172704bac60ff041c187c6
+      internalID: 698160005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiragana_gojuon_59
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 74.8
+        width: 101.14286
+        height: 73.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e88644987045a42986ce2ba113dc54
+      internalID: -297194181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiragana_gojuon_60
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 74.8
+        width: 101.14286
+        height: 73.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 858c3bb9e61e3e34db444cf5a262e56b
+      internalID: 24059373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiragana_gojuon_61
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 74.8
+        width: 101.14286
+        height: 73.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd5d9885a5498384584a87119370589c
+      internalID: -806529658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiragana_gojuon_62
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 74.8
+        width: 101.14286
+        height: 73.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 065436331caf23b48b9f4ae295e2038e
+      internalID: -1173855160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiragana_gojuon_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1.800003
+        width: 101.14286
+        height: 73.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c42894269d9ea9e48a631fbc2187141d
+      internalID: -831606329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiragana_gojuon_64
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1.800003
+        width: 101.14286
+        height: 73.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 327dece12781a924288dd19a6145f4c5
+      internalID: -1416106879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiragana_gojuon_65
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1.800003
+        width: 101.14286
+        height: 73.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6974f6b7e3060fa42913b225ffd0e7f8
+      internalID: -590149643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiragana_gojuon_66
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 1.800003
+        width: 101.14286
+        height: 73.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73bc205abfe9c4241bb04c086f2e95e4
+      internalID: 567753531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiragana_gojuon_67
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1.800003
+        width: 101.14286
+        height: 73.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ece33513babad40b2870877f3b6501
+      internalID: -486675655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiragana_gojuon_68
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 1.800003
+        width: 101.14286
+        height: 73.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9eff0951d6831b42b4fc29da7b69ea4
+      internalID: -501714433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiragana_gojuon_69
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 1.800003
+        width: 101.14286
+        height: 73.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a3fdd7b6ce005a4c9c54bc87b1707a9
+      internalID: 1969734869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      hiragana_gojuon_39: -2126330191
+      hiragana_gojuon_60: 24059373
+      hiragana_gojuon_7: -1780208580
+      hiragana_gojuon_14: -1780185172
+      hiragana_gojuon_48: -1560466
+      hiragana_gojuon_64: -1416106879
+      hiragana_gojuon_10: 2118077459
+      hiragana_gojuon_17: -1109430175
+      hiragana_gojuon_19: 1535453063
+      hiragana_gojuon_9: -970978208
+      hiragana_gojuon_66: 567753531
+      hiragana_gojuon_36: 1355099318
+      hiragana_gojuon_37: -1859855150
+      hiragana_gojuon_32: -432264171
+      hiragana_gojuon_11: 2034883176
+      hiragana_gojuon_63: -831606329
+      hiragana_gojuon_35: -1840095372
+      hiragana_gojuon_49: 486047569
+      hiragana_gojuon_1: -634576607
+      hiragana_gojuon_58: 698160005
+      hiragana_gojuon_56: -1769812714
+      hiragana_gojuon_33: 2003777622
+      hiragana_gojuon_30: -902898932
+      hiragana_gojuon_12: 815692885
+      hiragana_gojuon_27: -746561246
+      hiragana_gojuon_54: -1984559163
+      hiragana_gojuon_43: -823469282
+      hiragana_gojuon_45: -292877526
+      hiragana_gojuon_5: 1883361523
+      hiragana_gojuon_22: 769318539
+      hiragana_gojuon_38: 1717922716
+      hiragana_gojuon_26: -961627902
+      hiragana_gojuon_50: 1112009802
+      hiragana_gojuon_28: 1659912937
+      hiragana_gojuon_15: -799219782
+      hiragana_gojuon_47: -888835880
+      hiragana_gojuon_51: 1753857610
+      hiragana_gojuon_18: -674860269
+      hiragana_gojuon_16: -1754549457
+      hiragana_gojuon_44: -1633255183
+      hiragana_gojuon_68: -501714433
+      hiragana_gojuon_20: -1985105553
+      hiragana_gojuon_52: 1071909913
+      hiragana_gojuon_23: -1102677020
+      hiragana_gojuon_55: -1736968630
+      hiragana_gojuon_61: -806529658
+      hiragana_gojuon_62: -1173855160
+      hiragana_gojuon_2: -887491512
+      hiragana_gojuon_4: -806074833
+      hiragana_gojuon_8: 369628399
+      hiragana_gojuon_24: 1145215672
+      hiragana_gojuon_0: 747164294
+      hiragana_gojuon_57: 1674681975
+      hiragana_gojuon_69: 1969734869
+      hiragana_gojuon_65: -590149643
+      hiragana_gojuon_41: -1684343209
+      hiragana_gojuon_59: -297194181
+      hiragana_gojuon_46: 1694517386
+      hiragana_gojuon_67: -486675655
+      hiragana_gojuon_6: -417445582
+      hiragana_gojuon_25: -1003458934
+      hiragana_gojuon_13: 577336758
+      hiragana_gojuon_21: 2064264214
+      hiragana_gojuon_42: -2025651002
+      hiragana_gojuon_3: 635360314
+      hiragana_gojuon_40: -933186201
+      hiragana_gojuon_31: -1786647171
+      hiragana_gojuon_29: 1869663307
+      hiragana_gojuon_34: 1028567556
+      hiragana_gojuon_53: -535700306
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
