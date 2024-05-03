@@ -1,8 +1,5 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
-
 public class ManagePuzzleGame : MonoBehaviour
 {
 
@@ -10,7 +7,7 @@ public class ManagePuzzleGame : MonoBehaviour
     public Image placeHolder;
     float phWidth, phHeight;
     float timer;
-    bool cardsShuffled = false;
+    public bool cardsShuffled = false;
 
     // Start is called before the first frame update
     void Start()
@@ -74,7 +71,7 @@ public class ManagePuzzleGame : MonoBehaviour
         }
     }
 
-    void shufflePieces()
+    public void shufflePieces()
     {
         int[] newArray = new int[25];
         for (int i = 0; i < 25; i++) newArray[i] = i;

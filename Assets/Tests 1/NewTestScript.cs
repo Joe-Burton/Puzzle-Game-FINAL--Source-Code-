@@ -1,52 +1,47 @@
+using System.Collections;
 using UnityEngine;
 using NUnit.Framework;
+using UnityEngine.SceneManagement;
+using UnityEngine.TestTools;
 
 public class ManagePuzzleGameTests
 {
-    [Test]
-    public void CheckWinCondition_NullTest()
+    [UnityTest]
+    public IEnumerator CreatePlaceholders_Test()
+    {
+        yield return new WaitForSeconds(1f);
+        SceneManager.LoadScene("Puzzle 1");
+        yield return new WaitForSeconds(1f);
+
+        GameObject Placeholder = GameObject.Find("PH1");
+        
+        Assert.IsNotNull(Placeholder, "This is null");
+    }
+
+    [UnityTest]
+    public IEnumerator CreatePieces_Test()
+    {
+        yield return new WaitForSeconds(1f);
+        SceneManager.LoadScene("Puzzle 1");
+        yield return new WaitForSeconds(1f);
+
+        GameObject Pieces = GameObject.Find("Piece1");
+        
+        Assert.IsNotNull(Pieces, "This is null");
+    }
+
+    [UnityTest]
+    public IEnumerator ShufflePieces_Test()
     {
         
-        Assert.IsNull(null);
-    }
+        yield return new WaitForSeconds(1f);
+        SceneManager.LoadScene("Puzzle 1");
+        yield return new WaitForSeconds(4f);
 
-    [Test]
-    public void StopTimerAndLoadHighScoreScene_NullTest()
-    {
-        Assert.IsNull(null);
-    }
-
-    [Test]
-    public void SaveFastestTime_NullTest()
-    {
+        GameObject Shuffle = GameObject.Find("managePuzzleGame");
         
-        Assert.IsNull(null);
-    }
+        Assert.IsNotNull(Shuffle, "This is null");
 
-    [Test]
-    public void createPlaceHolders_NullTest()
-    {
-        
-        Assert.IsNull(null);
-    }
-
-    [Test]
-    public void createPieces_NullTest()
-    {
-        Assert.IsNull(null);
-    }
-
-    [Test]
-    public void shufflePieces_NullTest()
-    {
-        
-        Assert.IsNull(null);
-    }
-
-    [Test]
-    public void PiecePlaced_NullTest()
-    {
-        
-        Assert.IsNull(null);
+        bool boolShuffle = Shuffle.GetComponent<ManagePuzzleGame>().cardsShuffled;
     }
 }

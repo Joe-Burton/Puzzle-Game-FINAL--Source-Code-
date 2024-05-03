@@ -16,12 +16,13 @@ public class TimeLeaderboardDisplay : MonoBehaviour
             float time = PlayerPrefs.GetFloat("LeaderboardTime" + i, float.MaxValue);
             string minutes = ((int)time / 60).ToString();
             string seconds = (time % 60).ToString("f2");
+            //string milliseconds =((time * 1000f) % 1000f).ToString("f3");
 
-            leaderboard += (i + 1) + ". " + minutes + ":" + seconds + "\n";
+            leaderboard += (i + 1) + minutes + ":" + seconds + "\n";
         }
 
         leaderboardText.text = leaderboard;
-
+        
 #if UNITY_EDITOR
         // File saving to your machine isn't really possible on a WebGL build.
         // You can only access your resource folder like this within the editor.

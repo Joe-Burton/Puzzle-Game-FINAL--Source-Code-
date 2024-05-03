@@ -4,7 +4,7 @@ using UnityEngine;
 public class LoadTextFileRes : MonoBehaviour
 {
     public TMP_Text textTarget; // Output target
-    public string FastestTime; // Don't include .txt in name
+    private string FastestTime = "FastestTime"; // Don't include .txt in name
 
     void Start()
     {
